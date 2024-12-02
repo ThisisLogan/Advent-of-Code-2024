@@ -18,7 +18,6 @@ func is_safe(array: [Int]) -> Bool {
             break
         }
     }
-    //print(array)
     if isok == true {
         return true
     } else {
